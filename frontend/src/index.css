@@ -65,7 +65,7 @@ SHARED PAGE LAYOUT
 -------------------------------------------------------- */
 .page {
   min-height: calc(100vh - 60px); /* minus navbar height */
-  background-image: url("C:\Users\Hp\hrms\frontend\public\Background.png");
+  background-image: url("./assets/Background.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -231,7 +231,7 @@ ASSIGN MODAL
 -------------------------------------------------------- */
 .login-page {
   min-height: 100vh;
-  background-image: url("C:\Users\Hp\hrms\frontend\public\Frame19.png"); /* FIXED PATH */
+  background-image: url("./assets/Frame19.png"); /* FIXED PATH */
   background-size: cover;
   background-position: center;
   display: flex;
