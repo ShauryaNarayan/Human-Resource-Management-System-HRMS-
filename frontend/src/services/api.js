@@ -2,7 +2,7 @@ import axios from "axios";
 
 // Create axios instance with backend URL
 const api = axios.create({
-  baseURL: "http://localhost:5000/api",
+  baseURL: "https://human-resource-management-system-hrms-4.onrender.com/api",
 });
 
 // Automatically attach JWT token to every request
